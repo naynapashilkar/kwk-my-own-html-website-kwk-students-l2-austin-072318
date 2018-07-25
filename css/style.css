@@ -1,0 +1,61 @@
+nav {
+  background-color: #41c8e2;
+  position: fixed;
+  margin-left:auto;
+  margin-right: auto;
+  padding-bottom: 0;
+  text-align: center;
+  width:100%;
+}
+li {
+  padding-right:5%;
+  padding-left: 5%;
+}
+
+#name {
+  position: fixed;
+  margin-left:auto;
+  margin-right: auto;
+  font-size: 400%;
+  padding-bottom: 0;
+  font-family: 'Raleway', Sans-Serif;
+  font-weight: bold;
+  text-align: center;
+  top:45%;
+  width:100%;
+}
+
+
+ul {
+    border:5px solid #000;
+    border-width:0px 0px;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+li{
+    display:inline;
+}
+a{
+    display:inline-block;
+    padding:2%;
+    font-size: 120%;
+    font-family: 'Raleway', Arial, Sans-Serif;
+    color:black;
+}
+
+a:hover {
+  color:white;
+  font-weight: bold;
+}
+
+/*body {*/
+/*  margin:50;*/
+/*    background-image : url("https://media.istockphoto.com/photos/art-summer-vacation-ocean-beach-picture-id510152502?k=6&m=510152502&s=612x612&w=0&h=dBUs641JFQv3yCxWRnFqG23k_atj7CHu7NxoT29Z2Y4=");*/
+/*    background-image : url("https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1446655168/chicago-header-dg1115.jpg?itok=MqZFOaTi");*/
+/*  height:100%;*/
+/*  background-position: center;*/
+/*  background-repeat: no-repeat;*/
+/*  background-size: cover;*/
+/*}*/
